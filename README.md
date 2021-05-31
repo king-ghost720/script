@@ -1,1 +1,1 @@
-# script
+» ini adalah program saya
