@@ -1,1 +1,1 @@
-» ini adalah program saya
+» ini adalah program pertama saya
